@@ -1,0 +1,15 @@
+:root {
+	--color-white: #FFFFFF;
+	--color-black: #333333;
+
+	--color-blue: #0066CC;
+	--color-yellow: #FFC85F;
+	--color-orange: #F56300;
+
+	--color-gradient-purple: linear-gradient(216.49deg, #8E1DE7 22.43%, #CE67FF 78.56%);
+	--color-gradient-orange: linear-gradient(211.43deg, #F56300 33.86%, #FFAD76 126.66%);
+	--color-gradient-orange-2: linear-gradient(213.34deg, #FF985F 34.32%, #FFC8A9 100%);
+	--color-gradient-blue: linear-gradient(76.61deg, #9D57BE 24.21%, #7161C9 43.05%, #70A7CE 57.09%, #67AEE0 62.3%);
+	--color-gradient-blue-2: linear-gradient(21.85deg, #9D57BE 10.87%, #7178CB 51.19%, #67AEE0 82.83%);
+	--color-gradient-green: linear-gradient(213.34deg, #79DF3B 34.32%, #A0EC00 100%);
+}
